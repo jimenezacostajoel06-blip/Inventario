@@ -1,9 +1,9 @@
-# Título de tu Proyecto
+# BANCO
 
 Es un programa diseñado para simular el funcionamiento de un banco, con funciones básicas de registro.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## VIDSUAL BASIC
 
 - **Lenguaje:**  C++
